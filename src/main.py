@@ -36,7 +36,10 @@ def get_movie_release_day_revenue(movie_url, movie_name):
     if page_result.status_code != 200:
         raise Exception(f"Failed to load page at {movie_url}")
     soup = BeautifulSoup(page_result.content, "html.parser")
-    table_rows = soup.find_all(id="box_office_chart")[1].find_all("tr")
+    box_office_charts = soup.find_all(id="box_office_chart")
+    if box_office_charts is None or len(box_office_charts) < 2:
+        return -1
+    table_rows = box_office_charts[1].find_all("tr")
     cells = table_rows[1].find_all("td")
     return get_cash_value(cells[2].string.strip())
 
@@ -68,7 +71,7 @@ def get_movies_list(num_pages, ratingsFetchers):
 
 def run():
     ratingsFetchers = [
-        ratings.TomatometerScoreFetcher()
+        ratings.TomatometerScoreFetcher(),
         ratings.MetacriticScoreFetcher()
     ]
     headings = ["Movie Name", "Production budget", "Release day revenue"]

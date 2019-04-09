@@ -3,6 +3,10 @@ import re
 from bs4 import BeautifulSoup
 import requests
 
+_HEADERS = {
+    'user-agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
+}
+
 class TomatometerScoreFetcher():
     def __init__(self):
         self.name = "Tomatometer"
@@ -11,7 +15,7 @@ class TomatometerScoreFetcher():
     def get_score(self, movie_name):
         url_movie_name = self.__movie_name_regex.sub("", movie_name.replace(" ", "_"))
         page_url = f"https://www.rottentomatoes.com/m/{url_movie_name}"
-        page_result = requests.get(page_url)
+        page_result = requests.get(page_url, headers=_HEADERS)
         if page_result.status_code != 200:
             return -1
         soup = BeautifulSoup(page_result.content, "html.parser")
@@ -27,13 +31,13 @@ class MetacriticScoreFetcher():
         self.__movie_name_regex = re.compile('[^a-zA-Z1-9\-]')
 
     def get_score(self, movie_name):
-        url_movie_name = self.__movie_name_regex.sub("", movie_name.replace(" ", "-"))
-        page_url = f"https://www.metacritic.com/movie/m/{url_movie_name}"
-        page_result = requests.get(page_url)
+        url_movie_name = self.__movie_name_regex.sub("", movie_name.replace(" ", "-")).lower()
+        page_url = f"https://www.metacritic.com/movie/{url_movie_name}"
+        page_result = requests.get(page_url, headers=_HEADERS)
         if page_result.status_code != 200:
             return -1
         soup = BeautifulSoup(page_result.content, "html.parser")
-        score_span = soup.find(class_="metascore_w larger movie positive")
+        score_span = soup.find(class_="metascore_w")
         if score_span is None:
             return -1
         review_score = int(score_span.string.strip()) / 100

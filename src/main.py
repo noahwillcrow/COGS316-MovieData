@@ -2,6 +2,7 @@ import csv
 from datetime import datetime
 import math
 import sys
+import uuid
 
 from bs4 import BeautifulSoup
 import ratings
@@ -106,59 +107,68 @@ def populate_movie_release_day_info(tab_url, movie_info):
     except Exception as ex:
         print(f"Exception occurred: {ex}")
 
-def get_movies_list(num_pages, ratingsFetchers):
-    movies = [None for i in range(num_pages * _NUM_MOVIES_PER_PAGE)]
-    movie_index = 0
-
-    for page_number in range(num_pages):
-        print(f"Starting on page {page_number + 1} / {num_pages}")
+def write_page_of_movies_to_csv(page_number, ratingsFetchers, csv_writer):
+    soup = get_movies_list_soup(page_number)
+    table_rows = soup.find_all("tr")[1:]
+    for table_row in table_rows:
         try:
-            soup = get_movies_list_soup(page_number)
-            table_rows = soup.find_all("tr")[1:]
-            for table_row in table_rows:
-                cells = table_row.find_all("td")
-                movie_url = _MOVIES_WEBSITE_URL_BASE + cells[2].a["href"]
-                if movie_url.find("#") > -1:
-                    movie_url = movie_url[0:movie_url.find("#")]
+            cells = table_row.find_all("td")
+            movie_name = cells[2].string.strip()
+            movie_url = _MOVIES_WEBSITE_URL_BASE + cells[2].a["href"]
+            if movie_url.find("#") > -1:
+                movie_url = movie_url[0:movie_url.find("#")]
 
-                movie_info = {}
-                movie_info['name'] = cells[2].string.strip()
-                movie_info['production_budget'] = get_cash_value(cells[3].string.strip())
-                populate_movie_details_info(movie_url + "#tab=summary", movie_info)
-                populate_movie_release_day_info(movie_url + "#tab=box-office", movie_info)
+            movie_info = {}
+            movie_info['name'] = movie_name
+            movie_info['production_budget'] = get_cash_value(cells[3].string.strip())
+            populate_movie_details_info(movie_url + "#tab=summary", movie_info)
+            populate_movie_release_day_info(movie_url + "#tab=box-office", movie_info)
 
-                row_data = [movie_info[col['key']] if movie_info[col['key']] is not None else -1 for col in _COLUMNS]
+            row_data = [-1 if not col['key'] in movie_info else movie_info[col['key']] for col in _COLUMNS]
 
-                for ratingsFetcher in ratingsFetchers:
-                    rating = ratingsFetcher.get_score(movie_info['name'])
-                    row_data.append(rating)
+            for ratingsFetcher in ratingsFetchers:
+                rating = ratingsFetcher.get_score(movie_name)
+                row_data.append(rating)
 
-                movies[movie_index] = row_data
-                movie_index += 1
+            csv_writer.writerow(row_data)
         except Exception as ex:
-            print(f"An error occurred loading page {page_number + 1}")
             print(f"Exception occurred: {ex}")
 
-    return movies
-
 def run(args):
+    start_page = 0
     num_pages = 1
-    if len(args) == 2:
+    file_name = f"movies_list_{str(uuid.uuid4())}.csv"
+    file_mode = "w"
+    should_add_header = True
+    if len(args) >= 2:
         num_pages = int(args[1])
+    if len(args) >= 3:
+        start_page = int(args[2])
+    if len(args) >= 4:
+        file_name = args[3]
+        file_mode = "a+"
+        should_add_header = False
 
     ratingsFetchers = [
         ratings.TomatometerScoreFetcher(),
         ratings.MetacriticScoreFetcher()
     ]
-    headings = [col['name'] for col in _COLUMNS]
-    for ratingsFetcher in ratingsFetchers:
-        headings.append(ratingsFetcher.name)
 
-    movies_list = get_movies_list(num_pages, ratingsFetchers)
-    with open(f"movies_list_{len(movies_list)}.csv", mode='w') as csv_file:
-        file_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        file_writer.writerow(headings)
-        file_writer.writerows(movies_list)
+    with open(file_name, mode=file_mode, newline="", encoding="utf-8") as csv_file:
+        csv_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+
+        if should_add_header:
+            print("Writing headings row")
+            headings = [col['name'] for col in _COLUMNS]
+            for ratingsFetcher in ratingsFetchers:
+                headings.append(ratingsFetcher.name)
+            csv_writer.writerow(headings)
+
+        for page_number in range(start_page, num_pages):
+            print(f"Starting on page {page_number + 1} / {num_pages}")
+            write_page_of_movies_to_csv(page_number, ratingsFetchers, csv_writer)
+
+    print("Complete")
 
 if __name__ == "__main__":
     run(sys.argv)

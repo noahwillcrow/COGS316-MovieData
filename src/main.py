@@ -118,6 +118,8 @@ def write_page_of_movies_to_csv(page_number, ratingsFetchers, csv_writer):
             if movie_url.find("#") > -1:
                 movie_url = movie_url[0:movie_url.find("#")]
 
+            print(f"Processing movie: {movie_name}")
+
             movie_info = {}
             movie_info['name'] = movie_name
             movie_info['production_budget'] = get_cash_value(cells[3].string.strip())

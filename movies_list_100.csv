@@ -1,0 +1,101 @@
+Name,Source type,Genre,Production method,Is part of a franchise?,Production budget (in USD),Month,Year,Release day revenue,Number of theaters on release day,Tomatometer,Metacritic
+Avatar,Original Screenplay,Action,Animation/Live Action,True,425000000,12,2009,26752099,3452,0.82,0.83
+Pirates of the Caribbean: On Stranger Tides,Based on Theme Park Ride,Adventure,Live Action,True,410600000,5,2011,34860549,4155,0.33,0.45
+Avengers: Age of Ultron,Based on Comic/Graphic Novel,Action,Animation/Live Action,True,330600000,5,2015,84424532,4276,0.75,0.66
+Star Wars Ep. VIII: The Last Jedi,Original Screenplay,Adventure,Live Action,True,317000000,12,2017,104684491,4232,-1,-1
+Star Wars Ep. VII: The Force Awakens,Original Screenplay,Adventure,Animation/Live Action,True,306000000,12,2015,119119282,4134,-1,-1
+Avengers: Infinity War,Based on Comic/Graphic Novel,Action,Animation/Live Action,True,300000000,4,2018,106334939,4474,0.85,0.68
+Pirates of the Caribbean: At Worldâs End,Based on Theme Park Ride,Adventure,Live Action,True,300000000,5,2007,13240044,3100,0.44,0.5
+Justice League,Based on Comic/Graphic Novel,Action,Live Action,True,300000000,11,2017,38471202,4051,-1,0.45
+Spectre,Based on Fiction Book/Short Story,Action,Live Action,True,300000000,11,2015,27434579,3929,-1,0.6
+The Dark Knight Rises,Based on Comic/Graphic Novel,Action,Live Action,True,275000000,7,2012,75754897,4404,0.87,0.78
+The Lone Ranger,Based on TV,Western,Live Action,False,275000000,7,2013,9651118,3904,0.31,0.37
+John Carter,Based on Fiction Book/Short Story,Adventure,Live Action,False,275000000,3,2012,9811935,3749,0.52,0.51
+Tangled,Based on Folk Tale/Legend/Fairytale,Musical,Digital Animation,False,260000000,11,2010,11869194,3603,0.89,0.71
+Spider-Man 3,Based on Comic/Graphic Novel,Adventure,Live Action,True,258000000,5,2007,59841919,4252,0.63,0.59
+Captain America: Civil War,Based on Comic/Graphic Novel,Action,Live Action,True,250000000,5,2016,75502161,4226,0.91,0.75
+Batman v Superman: Dawn of Justice,Based on Comic/Graphic Novel,Action,Live Action,True,250000000,3,2016,81558505,4242,0.28,0.44
+The Hobbit: An Unexpected Journey,Based on Fiction Book/Short Story,Adventure,Animation/Live Action,True,250000000,12,2012,37125547,4045,0.65,0.58
+Harry Potter and the Half-Blood Prince,Based on Fiction Book/Short Story,Adventure,Animation/Live Action,True,250000000,7,2009,58175412,4275,-1,0.78
+The Hobbit: The Desolation of Smaug,Based on Fiction Book/Short Story,Adventure,Animation/Live Action,True,250000000,12,2013,31190587,3903,0.74,0.66
+The Hobbit: The Battle of the Five Armies,Based on Fiction Book/Short Story,Adventure,Live Action,True,250000000,12,2014,24452117,3875,0.59,0.59
+The Fate of the Furious,Original Screenplay,Action,Live Action,True,250000000,4,2017,45695015,4310,0.68,0.56
+Solo: A Star Wars Story,Spin-Off,Adventure,Live Action,True,250000000,5,2018,35375125,4381,0.7,0.62
+Superman Returns,Based on Comic/Graphic Novel,Adventure,Live Action,True,232000000,6,2006,21037277,3915,0.75,0.72
+Pirates of the Caribbean: Dead Men Tell No Tales,Based on Theme Park Ride,Adventure,Live Action,True,230000000,5,2017,23567874,4276,0.29,0.39
+Quantum of Solace,Based on Fiction Book/Short Story,Action,Live Action,True,230000000,11,2008,27007026,3451,0.65,0.58
+The Avengers,Based on Comic/Graphic Novel,Action,Animation/Live Action,True,225000000,5,2012,80813985,4349,-1,0.12
+Pirates of the Caribbean: Dead Manâs Chest,Based on Theme Park Ride,Adventure,Live Action,True,225000000,7,2006,55830600,4133,0.53,0.53
+Man of Steel,Based on Comic/Graphic Novel,Action,Live Action,True,225000000,6,2013,12062124,1000,-1,0.55
+The Chronicles of Narnia: Prince Caspian,Based on Fiction Book/Short Story,Adventure,Animation/Live Action,True,225000000,5,2008,19397743,3929,-1,0.62
+The Amazing Spider-Man,Based on Comic/Graphic Novel,Adventure,Live Action,True,220000000,7,2012,850000,400,-1,0.66
+Battleship,Based on Game,Action,Live Action,False,220000000,5,2012,8782225,3690,0.34,0.41
+Transformers: The Last Knight,Based on TV,Action,Animation/Live Action,True,217000000,6,2017,15658535,4069,0.15,0.27
+Jurassic World,Based on Fiction Book/Short Story,Action,Live Action,True,215000000,6,2015,81953950,4274,0.72,0.59
+Men in Black 3,Based on Comic/Graphic Novel,Adventure,Animation/Live Action,True,215000000,5,2012,17664409,4248,-1,-1
+Transformers: Revenge of the Fallen,Based on TV,Action,Animation/Live Action,True,210000000,6,2009,62016476,4234,0.19,0.35
+Transformers: Age of Extinction,Based on TV,Action,Animation/Live Action,True,210000000,6,2014,41868135,4233,0.18,0.32
+X-Men: The Last Stand,Based on Comic/Graphic Novel,Action,Live Action,True,210000000,5,2006,45102265,3690,-1,0.58
+Robin Hood,Based on Folk Tale/Legend/Fairytale,Action,Live Action,False,210000000,5,2010,13031160,3503,-1,0.53
+King Kong,Remake,Adventure,Animation/Live Action,True,207000000,12,2005,9755745,3567,0.84,0.81
+The Golden Compass,Based on Fiction Book/Short Story,Adventure,Live Action,True,205000000,12,2007,8689000,3528,0.42,0.51
+Black Panther,Based on Comic/Graphic Novel,Action,Live Action,True,200000000,2,2018,75941146,4020,-1,0.88
+Titanic,Original Screenplay,Thriller/Suspense,Live Action,False,200000000,12,1997,8658814,2674,0.89,0.75
+Incredibles 2,Original Screenplay,Adventure,Digital Animation,True,200000000,6,2018,71260321,4410,0.94,0.8
+Rogue One: A Star Wars Story,Spin-Off,Adventure,Animation/Live Action,True,200000000,12,2016,71094394,4157,0.83,0.65
+Finding Dory,Original Screenplay,Adventure,Digital Animation,True,200000000,6,2016,54746405,4305,0.94,0.77
+Toy Story 3,Original Screenplay,Adventure,Digital Animation,True,200000000,6,2010,41148961,4028,0.98,0.92
+Iron Man 3,Based on Comic/Graphic Novel,Action,Animation/Live Action,True,200000000,5,2013,68858555,4253,0.8,0.62
+Guardians of the Galaxy Vol 2,Based on Comic/Graphic Novel,Action,Live Action,True,200000000,5,2017,56078520,4347,0.83,0.67
+Spider-Man 2,Based on Comic/Graphic Novel,Adventure,Live Action,True,200000000,6,2004,40442604,4152,0.93,0.83
+Alice in Wonderland,Based on Fiction Book/Short Story,Adventure,Animation/Live Action,True,200000000,3,2010,40804962,3728,-1,0.53
+Skyfall,Based on Fiction Book/Short Story,Action,Live Action,True,200000000,11,2012,2200000,463,0.92,0.81
+Monsters University,Original Screenplay,Adventure,Digital Animation,True,200000000,6,2013,30473099,4004,0.79,0.65
+Oz the Great and Powerful,Spin-Off,Adventure,Animation/Live Action,True,200000000,3,2013,24096622,3912,0.59,0.44
+X-Men: Days of Future Past,Based on Comic/Graphic Novel,Action,Live Action,True,200000000,5,2014,35511974,3996,-1,0.75
+The Amazing Spider-Man 2,Based on Comic/Graphic Novel,Action,Live Action,True,200000000,5,2014,35167017,4324,-1,0.53
+Cars 2,Original Screenplay,Adventure,Digital Animation,True,200000000,6,2011,25717785,4115,0.38,0.57
+Tron: Legacy,Original Screenplay,Adventure,Live Action,True,200000000,12,2010,17509781,3451,-1,0.49
+2012,Original Screenplay,Action,Live Action,True,200000000,11,2009,23441334,3404,-1,-1
+Fantastic Beasts: The Crimes of Grindelwald,Spin-Off,Adventure,Live Action,True,200000000,11,2018,25473261,4163,0.37,0.52
+Terminator Salvation,Original Screenplay,Action,Live Action,True,200000000,5,2009,13372491,3480,0.33,0.49
+Green Lantern,Based on Comic/Graphic Novel,Action,Animation/Live Action,False,200000000,6,2011,21386523,3816,0.26,0.39
+Prince of Persia: Sands of Time,Based on Game,Action,Live Action,False,200000000,5,2010,10208668,3646,0.36,-1
+Transformers: Dark of the Moon,Based on TV,Action,Animation/Live Action,True,195000000,6,2011,5500000,0,0.35,0.42
+The Mummy,Based on Folk Tale/Legend/Fairytale,Adventure,Live Action,True,195000000,6,2017,12035605,4035,-1,0.48
+Jack the Giant Slayer,Based on Folk Tale/Legend/Fairytale,Adventure,Animation/Live Action,False,195000000,3,2013,7693563,3525,0.52,0.51
+Furious 7,Original Screenplay,Action,Live Action,True,190000000,4,2015,67407340,4004,0.81,0.67
+Star Trek Into Darkness,Based on TV,Adventure,Live Action,True,190000000,5,2013,13536422,3762,0.85,0.72
+World War Z,Based on Fiction Book/Short Story,Action,Live Action,True,190000000,6,2013,25196879,3607,0.66,0.63
+The Great Gatsby,Based on Fiction Book/Short Story,Drama,Live Action,False,190000000,5,2013,19412782,3535,-1,0.55
+Disneyâs A Christmas Carol,Remake,Drama,Digital Animation,False,190000000,11,2009,8883262,3683,-1,-1
+Pacific Rim,Original Screenplay,Action,Live Action,True,190000000,7,2013,14562934,3275,-1,0.65
+The Good Dinosaur,Original Screenplay,Adventure,Digital Animation,True,187500000,11,2015,9760677,3749,0.76,0.66
+Iron Man,Based on Comic/Graphic Novel,Adventure,Live Action,True,186000000,5,2008,38734361,4105,0.93,0.79
+The Dark Knight,Based on Comic/Graphic Novel,Action,Live Action,True,185000000,7,2008,67165092,4366,0.94,0.84
+Indiana Jones and the Kingdom of the Crystal Skull,Original Screenplay,Adventure,Live Action,True,185000000,5,2008,25041072,4260,0.78,0.65
+Brave,Original Screenplay,Adventure,Digital Animation,True,185000000,6,2012,24635336,4164,-1,0.69
+Kong: Skull Island,Original Screenplay,Adventure,Live Action,True,185000000,3,2017,20143072,3846,0.75,0.62
+Star Trek Beyond,Based on TV,Adventure,Live Action,True,185000000,7,2016,22254377,3928,0.85,0.68
+Blade Runner 2049,Based on Fiction Book/Short Story,Thriller/Suspense,Live Action,True,185000000,10,2017,12595704,4058,-1,-1
+Thor: Ragnarok,Based on Comic/Graphic Novel,Action,Live Action,True,180000000,11,2017,46470936,4080,0.92,0.74
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Based on Fiction Book/Short Story,Adventure,Animation/Live Action,True,180000000,12,2005,23006856,3616,-1,0.75
+Maleficent,Spin-Off,Adventure,Live Action,True,180000000,5,2014,24297459,3948,0.54,0.56
+Fantastic Beasts and Where to Find Them,Spin-Off,Adventure,Live Action,True,180000000,11,2016,29661434,4144,0.74,0.66
+WALL-E,Original Screenplay,Adventure,Digital Animation,False,180000000,6,2008,23164108,3992,-1,0.95
+Rush Hour 3,Original Screenplay,Action,Live Action,True,180000000,8,2007,19103000,3778,0.18,0.44
+The Legend of Tarzan,Based on Fiction Book/Short Story,Adventure,Live Action,True,180000000,7,2016,14051421,3561,0.36,0.44
+Hugo,Based on Fiction Book/Short Story,Adventure,Animation/Live Action,False,180000000,11,2011,1681250,1277,0.93,0.83
+Valerian and the City of a Thousand Planets,Based on Comic/Graphic Novel,Adventure,Live Action,True,180000000,7,2017,6495217,3553,0.49,0.51
+Jupiter Ascending,Original Screenplay,Action,Live Action,False,179000000,2,2015,6334002,3885,0.26,0.4
+Mission: ImpossibleâFallout,Based on TV,Action,Live Action,True,178000000,7,2018,22803458,4386,-1,-1
+X-Men: Apocalypse,Based on Comic/Graphic Novel,Action,Live Action,True,178000000,5,2016,26302191,4150,-1,0.52
+The Meg,Based on Fiction Book/Short Story,Action,Live Action,True,178000000,8,2018,16604015,4118,0.46,0.46
+Edge of Tomorrow,Based on Comic/Graphic Novel,Action,Live Action,True,178000000,6,2014,10605165,3490,0.9,0.71
+The Jungle Book,Based on Fiction Book/Short Story,Adventure,Animation/Live Action,True,175000000,4,2016,32013316,4028,-1,0.65
+Inside Out,Original Screenplay,Adventure,Digital Animation,True,175000000,6,2015,34266177,3946,-1,0.28
+Spider-Man: Homecoming,Based on Comic/Graphic Novel,Action,Live Action,True,175000000,7,2017,50780982,4348,-1,0.73
+Suicide Squad,Based on Comic/Graphic Novel,Action,Live Action,True,175000000,8,2016,64893248,4255,-1,0.4
+Up,Original Screenplay,Adventure,Digital Animation,False,175000000,5,2009,21481834,3766,0.98,0.88
+Coco,Based on Folk Tale/Legend/Fairytale,Musical,Digital Animation,True,175000000,11,2017,13187576,3987,-1,0.54
+Ralph Breaks The Internet,Original Screenplay,Adventure,Digital Animation,True,175000000,11,2018,18340440,4017,0.88,0.71

@@ -107,7 +107,7 @@ def populate_movie_release_day_info(tab_url, movie_info):
     except Exception as ex:
         print(f"Exception occurred: {ex}")
 
-def write_page_of_movies_to_csv(page_number, ratingsFetchers, csv_writer):
+def write_page_of_movies_to_csv(page_number, ratings_fetchers, csv_writer):
     soup = get_movies_list_soup(page_number)
     table_rows = soup.find_all("tr")[1:]
     for table_row in table_rows:
@@ -128,8 +128,8 @@ def write_page_of_movies_to_csv(page_number, ratingsFetchers, csv_writer):
 
             row_data = [-1 if not col['key'] in movie_info else movie_info[col['key']] for col in _COLUMNS]
 
-            for ratingsFetcher in ratingsFetchers:
-                rating = ratingsFetcher.get_score(movie_name)
+            for ratings_fetcher in ratings_fetchers:
+                rating = ratings_fetcher.get_score(movie_name)
                 row_data.append(rating)
 
             csv_writer.writerow(row_data)
@@ -151,8 +151,9 @@ def run(args):
         file_mode = "a+"
         should_add_header = False
 
-    ratingsFetchers = [
+    ratings_fetchers = [
         ratings.TomatometerScoreFetcher(),
+        ratings.RottenTomatoesAudience(),
         ratings.MetacriticScoreFetcher()
     ]
 
@@ -162,13 +163,13 @@ def run(args):
         if should_add_header:
             print("Writing headings row")
             headings = [col['name'] for col in _COLUMNS]
-            for ratingsFetcher in ratingsFetchers:
-                headings.append(ratingsFetcher.name)
+            for ratings_fetcher in ratings_fetchers:
+                headings.append(ratings_fetcher.name)
             csv_writer.writerow(headings)
 
         for page_number in range(start_page, num_pages):
             print(f"Starting on page {page_number + 1} / {num_pages}")
-            write_page_of_movies_to_csv(page_number, ratingsFetchers, csv_writer)
+            write_page_of_movies_to_csv(page_number, ratings_fetchers, csv_writer)
 
     print("Complete")
 

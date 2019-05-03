@@ -1,0 +1,501 @@
+Movie Name,Production budget,Release day revenue,Tomatometer,Metacritic
+Avatar,425000000,26752099,0.82,-1
+Pirates of the Caribbean: On Stranger Tides,410600000,34860549,0.33,-1
+Avengers: Age of Ultron,330600000,84424532,0.75,-1
+Star Wars Ep. VIII: The Last Jedi,317000000,104684491,-1,-1
+Star Wars Ep. VII: The Force Awakens,306000000,119119282,-1,-1
+Avengers: Infinity War,300000000,106334939,0.85,-1
+Pirates of the Caribbean: At Worldâs End,300000000,13240044,0.44,-1
+Justice League,300000000,38471202,-1,-1
+Spectre,300000000,27434579,-1,-1
+The Dark Knight Rises,275000000,75754897,0.87,-1
+The Lone Ranger,275000000,9651118,0.31,-1
+John Carter,275000000,9811935,0.52,-1
+Tangled,260000000,11869194,0.89,-1
+Spider-Man 3,258000000,59841919,0.63,-1
+Captain America: Civil War,250000000,75502161,0.91,-1
+Batman v Superman: Dawn of Justice,250000000,81558505,0.27,-1
+The Hobbit: An Unexpected Journey,250000000,37125547,0.65,-1
+Harry Potter and the Half-Blood Prince,250000000,58175412,-1,-1
+The Hobbit: The Desolation of Smaug,250000000,31190587,0.74,-1
+The Hobbit: The Battle of the Five Armies,250000000,24452117,0.59,-1
+The Fate of the Furious,250000000,45695015,0.68,-1
+Solo: A Star Wars Story,250000000,35375125,0.7,-1
+Superman Returns,232000000,21037277,0.75,-1
+Pirates of the Caribbean: Dead Men Tell No Tales,230000000,23567874,0.29,-1
+Quantum of Solace,230000000,27007026,0.65,-1
+The Avengers,225000000,80813985,-1,-1
+Pirates of the Caribbean: Dead Manâs Chest,225000000,55830600,0.53,-1
+Man of Steel,225000000,12062124,-1,-1
+The Chronicles of Narnia: Prince Caspian,225000000,19397743,-1,-1
+The Amazing Spider-Man,220000000,850000,-1,-1
+Battleship,220000000,8782225,0.34,-1
+Transformers: The Last Knight,217000000,15658535,0.15,-1
+Jurassic World,215000000,81953950,0.72,-1
+Men in Black 3,215000000,17664409,-1,-1
+Transformers: Revenge of the Fallen,210000000,62016476,0.19,-1
+Transformers: Age of Extinction,210000000,41868135,0.18,-1
+X-Men: The Last Stand,210000000,45102265,-1,-1
+Robin Hood,210000000,13031160,-1,-1
+King Kong,207000000,9755745,0.84,-1
+The Golden Compass,205000000,8689000,0.42,-1
+Black Panther,200000000,75941146,-1,-1
+Titanic,200000000,8658814,0.89,-1
+Incredibles 2,200000000,71260321,0.94,-1
+Rogue One: A Star Wars Story,200000000,71094394,0.83,-1
+Finding Dory,200000000,54746405,0.94,-1
+Toy Story 3,200000000,41148961,0.98,-1
+Iron Man 3,200000000,68858555,0.8,-1
+Guardians of the Galaxy Vol 2,200000000,56078520,0.83,-1
+Spider-Man 2,200000000,40442604,0.93,-1
+Alice in Wonderland,200000000,40804962,-1,-1
+Skyfall,200000000,2200000,0.92,-1
+Monsters University,200000000,30473099,0.79,-1
+Oz the Great and Powerful,200000000,24096622,0.59,-1
+X-Men: Days of Future Past,200000000,35511974,-1,-1
+The Amazing Spider-Man 2,200000000,35167017,-1,-1
+Cars 2,200000000,25717785,0.38,-1
+Tron: Legacy,200000000,17509781,-1,-1
+2012,200000000,23441334,-1,-1
+Fantastic Beasts: The Crimes of Grindelwald,200000000,25473261,0.37,-1
+Terminator Salvation,200000000,13372491,0.33,-1
+Green Lantern,200000000,21386523,0.26,-1
+Prince of Persia: Sands of Time,200000000,10208668,0.36,-1
+Transformers: Dark of the Moon,195000000,5500000,0.35,-1
+The Mummy,195000000,12035605,-1,-1
+Jack the Giant Slayer,195000000,7693563,0.52,-1
+Furious 7,190000000,67407340,0.81,-1
+Star Trek Into Darkness,190000000,13536422,0.85,-1
+World War Z,190000000,25196879,0.66,-1
+The Great Gatsby,190000000,19412782,-1,-1
+Disneyâs A Christmas Carol,190000000,8883262,-1,-1
+Pacific Rim,190000000,14562934,-1,-1
+The Good Dinosaur,187500000,9760677,0.76,-1
+Iron Man,186000000,38734361,0.93,-1
+The Dark Knight,185000000,67165092,0.94,-1
+Indiana Jones and the Kingdom of the Crystal Skull,185000000,25041072,0.78,-1
+Brave,185000000,24635336,-1,-1
+Kong: Skull Island,185000000,20143072,0.75,-1
+Star Trek Beyond,185000000,22254377,0.85,-1
+Blade Runner 2049,185000000,12595704,-1,-1
+Thor: Ragnarok,180000000,46470936,0.92,-1
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",180000000,23006856,-1,-1
+Maleficent,180000000,24297459,0.54,-1
+Fantastic Beasts and Where to Find Them,180000000,29661434,0.75,-1
+WALL-E,180000000,23164108,-1,-1
+Rush Hour 3,180000000,19103000,0.18,-1
+The Legend of Tarzan,180000000,14051421,0.36,-1
+Hugo,180000000,1681250,0.93,-1
+Valerian and the City of a Thousand Planets,180000000,6495217,0.49,-1
+Jupiter Ascending,179000000,6334002,0.26,-1
+Mission: ImpossibleâFallout,178000000,22803458,-1,-1
+X-Men: Apocalypse,178000000,26302191,-1,-1
+The Meg,178000000,16604015,0.46,-1
+Edge of Tomorrow,178000000,10605165,0.9,-1
+The Jungle Book,175000000,32013316,-1,-1
+Inside Out,175000000,34266177,-1,-1
+Spider-Man: Homecoming,175000000,50780982,-1,-1
+Suicide Squad,175000000,64893248,-1,-1
+Up,175000000,21481834,0.98,-1
+Coco,175000000,13187576,-1,-1
+Ralph Breaks The Internet,175000000,18340440,0.88,-1
+Monsters vs. Aliens,175000000,16754032,0.73,-1
+Cars 3,175000000,19595034,0.7,-1
+G.I. Joe: The Rise of Cobra,175000000,22159303,0.34,-1
+Wild Wild West,175000000,7074603,0.17,-1
+The Mummy: Tomb of the Dragon Emperor,175000000,15228130,-1,-1
+Evan Almighty,175000000,11406660,0.23,-1
+Waterworld,175000000,32118480,0.44,-1
+King Arthur: Legend of the Sword,175000000,5273310,0.31,-1
+47 Ronin,175000000,7031735,0.15,-1
+Singularity,175000000,-1,-1,-1
+Jurassic World: Fallen Kingdom,170000000,58566870,0.48,-1
+Guardians of the Galaxy,170000000,37845336,0.91,-1
+Iron Man 2,170000000,51239677,0.73,-1
+Captain America: The Winter Soldier,170000000,36926192,0.9,-1
+Dawn of the Planet of the Apes,170000000,27645087,0.9,-1
+The Polar Express,170000000,2568506,-1,-1
+Snow White and the Huntsman,170000000,20468525,0.49,-1
+Terminator 3: Rise of the Machines,170000000,4036000,0.69,-1
+Van Helsing,170000000,19700000,0.24,-1
+Tomorrowland,170000000,9722075,-1,-1
+Alice Through the Looking Glass,170000000,9701973,-1,-1
+Shrek Forever After,165000000,20802341,0.58,-1
+Doctor Strange,165000000,32585335,-1,-1
+Big Hero 6,165000000,15809055,0.89,-1
+How to Train Your Dragon,165000000,12111766,0.99,-1
+Wreck-It Ralph,165000000,14232730,-1,-1
+Interstellar,165000000,1350209,0.72,-1
+Independence Day: Resurgence,165000000,16822551,0.29,-1
+Cowboys and Aliens,163000000,13087485,0.45,-1
+Beauty and the Beast,160000000,63777443,-1,-1
+Aquaman,160000000,27733155,0.65,-1
+Shrek the Third,160000000,907339,0.41,-1
+Inception,160000000,21782199,0.86,-1
+The Hunger Games: Mockingjay - Part 2,160000000,45579056,-1,-1
+Fast and Furious 6,160000000,38737505,0.7,-1
+Godzilla,160000000,38410607,0.16,-1
+X-Men: First Class,160000000,21398778,-1,-1
+The Curious Case of Benjamin Button,160000000,11871831,-1,-1
+The Sorcerer's Apprentice,160000000,3873997,-1,-1
+Poseidon,160000000,7393250,0.33,-1
+Warcraft,160000000,10701750,0.28,-1
+Deepwater Horizon,156000000,7067243,0.83,-1
+The Chronicles of Narnia: The Voyage of the Dawn Treader,155000000,8255202,-1,-1
+Terminator: Genisys,155000000,8930404,0.26,-1
+Pacific Rim: Uprising,155000000,10329775,0.44,-1
+Alexander,155000000,3995000,0.16,-1
+Captain Marvel,152000000,61715051,0.78,-1
+War for the Planet of the Apes,152000000,22111621,0.93,-1
+Pearl Harbor,151500000,18330000,-1,-1
+Transformers,151000000,8801025,-1,-1
+Wonder Woman,150000000,38247254,0.82,-1
+Frozen,150000000,66498,0.56,-1
+Zootopia,150000000,19500008,0.97,-1
+Harry Potter and the Order of the Phoenix,150000000,44232338,0.77,-1
+Harry Potter and the Goblet of Fire,150000000,40118363,0.88,-1
+The Matrix Reloaded,150000000,42508303,0.73,-1
+I am Legend,150000000,30059386,0.69,-1
+Moana,150000000,15519234,0.83,-1
+Hancock,150000000,6835034,0.41,-1
+Charlie and the Chocolate Factory,150000000,20714395,0.82,-1
+Ratatouille,150000000,16452942,0.96,-1
+Thor: The Dark World,150000000,31899210,0.66,-1
+Batman Begins,150000000,15068368,0.84,-1
+Mission: ImpossibleâRogue Nation,150000000,20301126,-1,-1
+Dunkirk,150000000,19736259,-1,-1
+Thor,150000000,25481796,0.77,-1
+Madagascar: Escape 2 Africa,150000000,17555027,0.63,-1
+X-Men Origins: Wolverine,150000000,34433831,-1,-1
+Night at the Museum: Battle of the Smithsonian,150000000,15568708,-1,-1
+Kung Fu Panda 2,150000000,5804129,-1,-1
+Mad Max: Fury Road,150000000,16611428,0.97,-1
+The Matrix Revolutions,150000000,24311365,0.36,-1
+Ready Player One,150000000,11946275,0.72,-1
+Chicken Little,150000000,10571609,0.37,-1
+Mission: Impossible III,150000000,16632157,-1,-1
+Angels & Demons,150000000,16471357,-1,-1
+Troy,150000000,16900000,0.54,-1
+The Last Airbender,150000000,17511097,-1,-1
+Bee Movie,150000000,10202024,0.5,-1
+G-Force,150000000,11533504,-1,-1
+Bolt,150000000,7036716,0.89,-1
+Wrath of the Titans,150000000,12316264,-1,-1
+Beowulf,150000000,10005134,0.71,-1
+Dark Shadows,150000000,9673463,0.36,-1
+White House Down,150000000,9025649,0.51,-1
+The Wolfman,150000000,9649890,-1,-1
+The Great Wall,150000000,5884250,-1,-1
+Pan,150000000,5183169,-1,-1
+Mars Needs Moms,150000000,1722337,0.37,-1
+Flushed Away,149000000,4710515,0.73,-1
+Madagascar 3: Europe's Most Wanted,145000000,20650819,0.79,-1
+Mission: ImpossibleâGhost Protocol,145000000,4102843,-1,-1
+How to Train Your Dragon 2,145000000,18440040,0.92,-1
+Tarzan,145000000,75122,0.88,-1
+Mr. Peabody & Sherman,145000000,8018923,-1,-1
+Rise of the Guardians,145000000,4837243,0.74,-1
+Sahara,145000000,6150277,-1,-1
+Ghostbusters,144000000,17129166,0.97,-1
+Die Another Day,142000000,16619731,0.57,-1
+Pirates of the Caribbean: The Curse of the Black Pearl,140000000,13509262,0.79,-1
+Star Trek,140000000,30893975,0.94,-1
+Armageddon,140000000,9668216,0.38,-1
+Men in Black 2,140000000,18599621,-1,-1
+Captain America: The First Avenger,140000000,25700189,0.8,-1
+Kung Fu Panda 3,140000000,10452621,0.86,-1
+Lethal Weapon 4,140000000,11305000,0.52,-1
+G.I. Joe: Retaliation,140000000,10506875,0.29,-1
+The Last Samurai,140000000,8200000,-1,-1
+Fun With Dick And Jane,140000000,3761129,0.28,-1
+Exodus: Gods and Kings,140000000,8867545,0.3,-1
+The BFG,140000000,7084842,-1,-1
+Gods of Egypt,140000000,4778391,0.15,-1
+Spider-Man,139000000,39406872,0.9,-1
+Watchmen,138000000,24515772,0.64,-1
+Stealth,138000000,4769491,-1,-1
+The Incredible Hulk,137500000,21468125,0.67,-1
+Hulk,137000000,24879000,0.62,-1
+Final Fantasy: The Spirits Within,137000000,5007886,0.45,-1
+"The Twilight Saga: Breaking Dawn, Part 2",136200000,71167839,0.49,-1
+The Croods,135000000,11645354,0.71,-1
+The Revenant,135000000,171758,-1,-1
+The World is Not Enough,135000000,12130000,-1,-1
+Rango,135000000,9608091,0.88,-1
+Master and Commander: The Far Side of the World,135000000,8156000,0.85,-1
+Turbo,135000000,5552403,-1,-1
+Teenage Mutant Ninja Turtles: Out of the Shadows,135000000,12484117,0.37,-1
+Happy Feet Two,135000000,5850626,0.45,-1
+Miami Vice,135000000,9017685,0.45,-1
+The Nutcracker and the Four Realms,132900000,5890162,0.33,-1
+War of the Worlds,132000000,21256483,0.75,-1
+Penguins of Madagascar,132000000,6138518,0.73,-1
+The Hunger Games: Catching Fire,130000000,70950136,0.89,-1
+Harry Potter and the Prisoner of Azkaban,130000000,38268295,0.9,-1
+The Bourne Ultimatum,130000000,24668225,-1,-1
+Ant-Man and the Wasp,130000000,33725082,-1,-1
+Kung Fu Panda,130000000,20303918,0.87,-1
+Ant-Man,130000000,22649199,0.82,-1
+Home,130000000,15716740,-1,-1
+Mary Poppins Returns,130000000,4763547,0.78,-1
+Puss in Boots,130000000,9569130,-1,-1
+Megamind,130000000,12530397,0.72,-1
+Bad Boys II,130000000,16883057,0.22,-1
+Rio 2,130000000,12007367,0.47,-1
+Salt,130000000,12532333,-1,-1
+Noah,130000000,15183234,0.76,-1
+The Adventures of Tintin,130000000,2302020,0.73,-1
+After Earth,130000000,9840651,0.11,-1
+Australia,130000000,2268558,0.55,-1
+R.I.P.D.,130000000,4819880,0.13,-1
+How to Train Your Dragon: The Hidden World,129000000,17376690,0.91,-1
+"The Twilight Saga: Breaking Dawn, Part 1",127500000,71642526,0.25,-1
+Dinosaur,127500000,11255000,-1,-1
+Logan,127000000,33005352,-1,-1
+Night at the Museum: Secret of the Tomb,127000000,5655945,0.48,-1
+Harry Potter and the Deathly Hallows: Part II,125000000,91071119,0.96,-1
+The Hunger Games: Mockingjay - Part 1,125000000,55139942,-1,-1
+Harry Potter and the Sorcererâs Stone,125000000,32333203,0.81,-1
+Harry Potter and the Deathly Hallows: Part I,125000000,61684550,0.78,-1
+The Da Vinci Code,125000000,28630324,-1,-1
+X-Men 2,125000000,31247979,-1,-1
+Fast Five,125000000,34399360,0.77,-1
+Teenage Mutant Ninja Turtles,125000000,25602161,0.34,-1
+Sherlock Holmes: A Game of Shadows,125000000,14607982,0.6,-1
+The Day After Tomorrow,125000000,24700000,-1,-1
+The Boss Baby,125000000,15621148,0.52,-1
+Clash of the Titans,125000000,2655005,0.68,-1
+Trolls,125000000,12373296,0.75,-1
+Godzilla,125000000,4088785,0.16,-1
+Prometheus,125000000,21466267,-1,-1
+The Bourne Legacy,125000000,13931400,0.56,-1
+Batman & Robin,125000000,16115353,-1,-1
+Skyscraper,125000000,9248305,-1,-1
+Total Recall,125000000,9092341,0.82,-1
+Assassinâs Creed,125000000,4623401,0.18,-1
+Monster Trucks,125000000,2595731,-1,-1
+The 13th Warrior,125000000,3381000,-1,-1
+How the Grinch Stole Christmas,123000000,15200440,0.51,-1
+Mission: Impossible 2,120000000,12516528,0.57,-1
+The Perfect Storm,120000000,13240000,0.47,-1
+Jason Bourne,120000000,22611225,0.55,-1
+Fantastic Four: Rise of the Silver Surfer,120000000,21990579,-1,-1
+Life of Pi,120000000,3645051,0.86,-1
+Ghost Rider,120000000,15420123,0.27,-1
+Rampage,120000000,11543321,-1,-1
+Charlie's Angels: Full Throttle,120000000,14611667,0.42,-1
+Elysium,120000000,11088228,-1,-1
+Oblivion,120000000,13297245,-1,-1
+Power Rangers,120000000,14921144,-1,-1
+Stuart Little 2,120000000,5314000,0.81,-1
+RoboCop,120000000,2808698,0.49,-1
+The Chronicles of Riddick,120000000,9900000,-1,-1
+Fantastic Four,120000000,11282868,0.27,-1
+Speed Racer,120000000,6192227,0.4,-1
+The Island,120000000,4202195,-1,-1
+How Do You Know?,120000000,2572546,0.32,-1
+Knight and Day,117000000,3810649,0.52,-1
+Venom,116000000,32503530,-1,-1
+Star Wars Ep. I: The Phantom Menace,115000000,28542349,-1,-1
+Star Wars Ep. III: Revenge of the Sith,115000000,50013859,-1,-1
+Star Wars Ep. II: Attack of the Clones,115000000,30141417,-1,-1
+"Monsters, Inc.",115000000,17390000,0.96,-1
+The Wolverine,115000000,20655772,-1,-1
+Dante's Peak,115000000,22608830,0.24,-1
+The Huntsman: Winterâs War,115000000,7271320,0.17,-1
+Windtalkers,115000000,4400000,0.32,-1
+AstÃ©rix aux Jeux Olympiques,113500000,275637,-1,-1
+Gulliver's Travels,112000000,3428531,-1,-1
+Ferdinand,111000000,3627780,0.72,-1
+Deadpool 2,110000000,53034421,0.83,-1
+Gravity,110000000,17484818,-1,-1
+Night at the Museum,110000000,12134015,0.43,-1
+Mr. and Mrs. Smith,110000000,17474908,0.59,-1
+San Andreas,110000000,18148048,0.51,-1
+The Smurfs,110000000,13260814,0.22,-1
+Live Free or Die Hard,110000000,9111638,0.82,-1
+The Divergent Series: Insurgent,110000000,21146942,0.28,-1
+Ocean's Twelve,110000000,14500000,0.55,-1
+Tomorrow Never Dies,110000000,8570000,0.58,-1
+The Patriot,110000000,5015267,-1,-1
+300: Rise of an Empire,110000000,17454309,-1,-1
+The Aviator,110000000,250000,-1,-1
+Passengers,110000000,4106572,-1,-1
+The Green Hornet,110000000,11096425,-1,-1
+Miss Peregrineâs Home for Peculiar Children,110000000,9041770,0.65,-1
+Real Steel,110000000,8533690,0.6,-1
+The A-Team,110000000,9660560,-1,-1
+The Smurfs 2,110000000,5203980,0.14,-1
+The Divergent Series: Allegiant,110000000,11935887,0.11,-1
+The Taking of Pelham 123,110000000,8234347,-1,-1
+Ender's Game,110000000,9825482,0.61,-1
+Home on the Range,110000000,4030000,0.53,-1
+Speed 2: Cruise Control,110000000,2260207,0.04,-1
+Kingdom of Heaven,110000000,7147738,0.39,-1
+Ghost in the Shell,110000000,7660626,0.96,-1
+Around the World in 80 Days,110000000,1426000,-1,-1
+The Lord of the Rings: The Fellowship of the Ring,109000000,18214211,0.91,-1
+The Cat in the Hat,109000000,11200000,-1,-1
+Ali,109000000,10216625,0.67,-1
+The Martian,108000000,18145681,0.91,-1
+Allied,106000000,2702288,0.6,-1
+"I, Robot",105000000,17800000,0.56,-1
+Stuart Little,105000000,3688000,0.67,-1
+The Princess and the Frog,105000000,276860,-1,-1
+"10,000 B.C.",105000000,12506898,-1,-1
+Ice Age: Collision Course,105000000,7919094,0.17,-1
+Town & Country,105000000,994000,-1,-1
+Kingsman: The Golden Circle,104000000,15273268,0.53,-1
+Gone in 60 Seconds,103300000,9311978,-1,-1
+Gladiator,103000000,11683107,0.76,-1
+The Hangover 3,103000000,11789463,-1,-1
+A Wrinkle in Time,103000000,10208602,-1,-1
+Public Enemies,102500000,8165025,-1,-1
+Casino Royale,102000000,14741135,0.94,-1
+Minority Report,102000000,11346000,0.91,-1
+Bumblebee,102000000,8501129,0.93,-1
+Cloud Atlas,102000000,3402211,0.67,-1
+Harry Potter and the Chamber of Secrets,100000000,29631453,0.82,-1
+Terminator 2: Judgment Day,100000000,2400000,0.93,-1
+Batman Forever,100000000,20046461,0.39,-1
+Planet of the Apes,100000000,25061500,-1,-1
+National Treasure,100000000,11000000,0.45,-1
+Django Unchained,100000000,15011121,0.86,-1
+Little Fockers,100000000,7142775,0.09,-1
+True Lies,100000000,40834885,0.71,-1
+American Gangster,100000000,15865355,0.8,-1
+Cloudy with a Chance of Meatballs,100000000,8137358,-1,-1
+The Other Guys,100000000,13124233,-1,-1
+Lemony Snicket's A Series of Unfortunate Events,100000000,10500000,-1,-1
+The Wolf of Wall Street,100000000,9150379,-1,-1
+Epic,100000000,9348014,-1,-1
+Eraser,100000000,36423776,0.35,-1
+The Hunchback of Notre Dame,100000000,32795950,-1,-1
+The Emperor's New Groove,100000000,2291000,-1,-1
+The Expendables 2,100000000,10494145,0.67,-1
+Where the Wild Things Are,100000000,12077282,0.72,-1
+Eragon,100000000,8742232,0.16,-1
+Hercules,100000000,11058454,0.83,-1
+The Tourist,100000000,6033091,-1,-1
+End of Days,100000000,5177000,0.11,-1
+The Stepford Wives,100000000,8100000,-1,-1
+Surf's Up,100000000,5804772,0.79,-1
+Blood Diamond,100000000,2647260,0.63,-1
+Legend of the Guardians: The Owls of Ga'Hoole,100000000,4519426,-1,-1
+Starship Troopers,100000000,8185000,0.62,-1
+Land of the Lost,100000000,7130025,-1,-1
+Peter Pan,100000000,3671000,-1,-1
+Catwoman,100000000,6300000,0.09,-1
+The Expendables 3,100000000,5950169,0.32,-1
+Treasure Planet,100000000,2361000,0.69,-1
+Wonder Park,100000000,5330263,0.31,-1
+Green Zone,100000000,5045040,-1,-1
+Geostorm,100000000,4304551,0.14,-1
+Point Break,100000000,4143201,0.68,-1
+In the Heart of the Sea,100000000,3849684,0.43,-1
+Transcendence,100000000,4813369,-1,-1
+Son of the Mask,100000000,2000000,0.06,-1
+Mortal Engines,100000000,2818295,0.27,-1
+The Adventures of Pluto Nash,100000000,727870,0.04,-1
+Jin lÃ­ng shÃ­ san chai,100000000,80986,-1,-1
+The Peanuts Movie,99000000,12075444,0.87,-1
+The LEGO Movie 2: The Second Part,99000000,8461120,0.86,-1
+Robin Hood,99000000,3159319,-1,-1
+The Mummy Returns,98000000,24134667,-1,-1
+Gangs of New York,97000000,2872500,0.74,-1
+Alien: Covenant,97000000,15301274,0.65,-1
+Cinderella,95000000,22996095,-1,-1
+Ice Age: Continental Drift,95000000,16728341,0.38,-1
+Black Hawk Down,95000000,10117000,0.76,-1
+Sex and the City 2,95000000,14208097,0.15,-1
+Percy Jackson & the Olympians: The Lightning Thief,95000000,9635313,-1,-1
+The Campaign,95000000,10177051,0.65,-1
+Unstoppable,95000000,7973861,-1,-1
+The Fifth Element,95000000,233396,0.71,-1
+The Road to El Dorado,95000000,3676101,-1,-1
+The Lovely Bones,95000000,43532,-1,-1
+Ben-Hur,95000000,4134322,0.87,-1
+Seventh Son,95000000,2287050,0.11,-1
+Finding Nemo,94000000,20208056,0.99,-1
+The Lord of the Rings: The Return of the King,94000000,34450834,0.93,-1
+The Lord of the Rings: The Two Towers,94000000,26159972,0.95,-1
+Lara Croft: Tomb Raider,94000000,17621000,0.2,-1
+Kingsman: The Secret Service,94000000,10428861,0.74,-1
+Jurassic Park III,93000000,19024360,0.5,-1
+Rise of the Planet of the Apes,93000000,19534699,0.82,-1
+The Spiderwick Chronicles,92500000,2375880,-1,-1
+The Incredibles,92000000,20503078,-1,-1
+A Good Day to Die Hard,92000000,8239116,0.15,-1
+The Alamo,92000000,3356000,-1,-1
+Cutthroat Island,92000000,4381670,0.38,-1
+The Secret Life of Walter Mitty,91000000,7813372,0.51,-1
+Jumanji: Welcome to the Jungle,90000000,7208112,0.76,-1
+Men in Black,90000000,4815427,0.92,-1
+Toy Story 2,90000000,101000,1.0,-1
+Rush Hour 2,90000000,22617500,0.52,-1
+Sherlock Holmes,90000000,24608941,-1,-1
+Ice Age: Dawn of the Dinosaurs,90000000,13791157,-1,-1
+Spider-Man: Into The Spider-Verse 3D,90000000,12665081,-1,-1
+What Lies Beneath,90000000,9998065,0.46,-1
+Rio,90000000,10345242,0.72,-1
+The Departed,90000000,8689561,0.91,-1
+Charlie's Angels,90000000,13392000,0.68,-1
+Mulan,90000000,7975000,0.86,-1
+Tropic Thunder,90000000,6503141,0.81,-1
+The Girl with the Dragon Tattoo,90000000,5065496,0.86,-1
+Contact,90000000,6543925,-1,-1
+You Don't Mess With the Zohan,90000000,14850376,0.37,-1
+Die Hard: With a Vengeance,90000000,29882809,0.52,-1
+The Magnificent Seven,90000000,12668015,0.63,-1
+Alvin and the Chipmunks: The Road Chip,90000000,4126717,0.15,-1
+Atlantis: The Lost Empire,90000000,103750,0.49,-1
+Valkyrie,90000000,8493000,0.62,-1
+Pixels,90000000,9110510,0.17,-1
+Artificial Intelligence: AI,90000000,10139500,-1,-1
+The Haunted Mansion,90000000,4400000,-1,-1
+Hollow Man,90000000,9082000,0.27,-1
+The Interpreter,90000000,7400000,0.8,-1
+Percy Jackson: Sea of Monsters,90000000,5452994,0.42,-1
+Lara Croft: Tomb Raider: The Cradle of Life,90000000,8225219,0.25,-1
+Now You See Me 2,90000000,8400189,0.34,-1
+Spy Game,90000000,3854000,0.66,-1
+The Saint,90000000,7868,-1,-1
+Mission to Mars,90000000,7897000,0.25,-1
+Tomb Raider,90000000,8984365,-1,-1
+Bicentennial Man,90000000,2237000,0.36,-1
+King Arthur,90000000,4819000,-1,-1
+Volcano,90000000,18344036,-1,-1
+The Devil's Own,90000000,22574814,-1,-1
+K-19: The Widowmaker,90000000,4023000,0.61,-1
+Conan the Barbarian,90000000,3673635,0.7,-1
+The Three Musketeers,90000000,2969687,-1,-1
+The Promise,90000000,1441951,-1,-1
+The Nutcracker in 3D,90000000,10019,0.0,-1
+Bright,90000000,-1,0.25,-1
+Army of the Dead,90000000,-1,-1,-1
+Twister,88000000,57982084,-1,-1
+Cinderella Man,88000000,5905225,0.8,-1
+The Predator,88000000,10303059,0.32,-1
+Fantastic Four,87500000,21263992,0.27,-1
+Hannibal,87000000,18959000,-1,-1
+Seabiscuit,86000000,6384690,0.77,-1
+Cast Away,85000000,11755000,0.88,-1
+Happy Feet,85000000,12257221,0.76,-1
+Ocean's Eleven,85000000,13300000,0.82,-1
+The Bourne Supremacy,85000000,18400000,-1,-1
+Air Force One,85000000,11981951,0.76,-1
+Fast & Furious,85000000,30560630,-1,-1
+Horton Hears a Who,85000000,13337277,-1,-1
+Divergent,85000000,22784019,0.42,-1
+Hotel Transylvania,85000000,10973012,0.44,-1
+Enchanted,85000000,7967766,0.93,-1
+Safe House,85000000,13645625,-1,-1
+I Now Pronounce You Chuck and Larry,85000000,12599475,0.14,-1
+Ocean's Thirteen,85000000,13178716,0.7,-1
+Itâs Complicated,85000000,7174195,-1,-1
+Enemy of the State,85000000,6360000,0.71,-1
+Open Season,85000000,6212884,0.48,-1
+Tower Heist,85000000,8062980,0.67,-1
+102 Dalmatians,85000000,2600000,-1,-1
+Mirror Mirror,85000000,5808426,-1,-1
+The Holiday,85000000,4441935,0.49,-1
